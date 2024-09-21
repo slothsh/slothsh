@@ -19,7 +19,7 @@ ___
 
 ### 👯 Collaboration
 
-I come from an audio background, so naturally I'd love to work on any
+I come from an audio background, so naturally I'd like to work on any
 projects that have their applications in audio! Plugins, real-time audio, etc.
 If you've got any ideas, or are already championing the next project that's
 going revolutionise the space, then I'd love to hear about it.
