@@ -28,8 +28,9 @@ ___
 
 ### 🔭 WIP Projects
 
-- [adr-cuesearch](https://github.com/slothsh/adr-cuesearch), a web-app for processing & searching libraries of audio-post production data.
 - [cxxtc](https://github.com/slothsh/cxxtc), a c++23, header-only library that provides a SMPTE timeocode container.
+- [adr-gsuite-tools](https://github.com/slothsh/adr-gsuite-tools), a toolkit that provides you with a suite of utilities for performing localisation tasks inside of Sheets.
+- [adr-cuesearch](https://github.com/slothsh/adr-cuesearch), a web-app for processing & searching libraries of audio-post production data.
 
 ___
 
