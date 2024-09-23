@@ -26,10 +26,10 @@ going revolutionise the space, then I'd love to hear about it.
 
 ___
 
-### 🔭 Projects
+### 🔭 WIP Projects
 
-- Web-app for processing & searching libraries of audio-post production data.
-- Personal desktop shell that integrates with [Hyprland](https://github.com/hyprwm/Hyprland).
+- [adr-cuesearch](https://github.com/slothsh/adr-cuesearch), a web-app for processing & searching libraries of audio-post production data.
+- [cxxtc](https://github.com/slothsh/cxxtc), a c++23, header-only library that provides a SMPTE timeocode container.
 
 ___
 
