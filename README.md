@@ -37,7 +37,7 @@ ___
 ### 🌱 Learning
 
 - Books:
-    - [Computer Netoworks: A Systems Approach](https://book.systemsapproach.org/index.html)
+    - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
 
 - Languages:
     - Rust
